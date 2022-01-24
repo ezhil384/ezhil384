@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ezhil384
 - 👀 I’m interested in deep learning and computer vision
-- 🌱 I’m currently learning multi object detection
+- 🌱 I’m currently learning lpw resolution activity recognition
 - 💞️ I’m looking to collaborate on google colab for projects
 - 📫 How to reach me ...
 
